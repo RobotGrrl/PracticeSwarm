@@ -1,0 +1,21 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 18
+/anthill/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/anthill/!svn/ver/26/trunk/Practice%20Swarm
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/anthill/!svn/ver/2/trunk/Practice%20Swarm/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/anthill/!svn/ver/2/trunk/Practice%20Swarm/build.xml
+END

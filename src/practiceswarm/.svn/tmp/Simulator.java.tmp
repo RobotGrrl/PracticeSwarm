@@ -1,0 +1,68 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package practiceswarm;
+
+import processing.core.*;
+
+/**
+ *
+ * @author Sean
+ */
+public class Simulator extends PApplet {
+
+    int count;
+    float a = 0.0f;
+    float inc = TWO_PI/25.0f;
+
+    public Simulator() {
+        
+    }
+
+   public static void main(String[] args) {
+       // must match the name of your class ie "letsp5.Main" = packageName.className
+       PApplet.main( new String[]{"practiceswarm.Simulator"} );
+   }
+
+   public void setup () {
+       size(600, 400);
+       background(128);
+       smooth();
+       //noStroke();
+   }
+
+   public void draw () {
+
+       background(128);
+
+       fill(0);
+       strokeWeight(0);
+       ellipse(mouseX-15, mouseY, 20, 15);
+       ellipse(mouseX, mouseY, 20, 15);
+       ellipse(mouseX+15, mouseY, 20, 15);
+
+       int legLength = 12;
+       float legWalk = 2.5f*sin(a);
+
+       strokeWeight(4);
+       line(mouseX-15, mouseY, mouseX-15+legWalk, mouseY+legLength);
+       line(mouseX, mouseY, mouseX+legWalk, mouseY+legLength);
+       line(mouseX+15, mouseY, mouseX+15+legWalk, mouseY+legLength);
+
+       line(mouseX-15, mouseY, mouseX-15+legWalk, mouseY-legLength);
+       line(mouseX, mouseY, mouseX+legWalk, mouseY-legLength);
+       line(mouseX+15, mouseY, mouseX+15+legWalk, mouseY-legLength);
+
+       a += inc;
+
+       count = (count%100 == 0) ? count = 0 : count++;
+
+   }
+
+   public void mouseDragged() {
+       line(mouseX, mouseY, pmouseX, pmouseY);
+   }
+
+}

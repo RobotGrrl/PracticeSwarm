@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm
+END
+Simulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/Simulator.java
+END
+Behavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/Behavior.java
+END
+SwarmObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/SwarmObject.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/State.java
+END
+TerrainSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/TerrainSpace.java
+END
+BehaviorA.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/BehaviorA.java
+END
+Instruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/anthill/!svn/ver/13/trunk/Practice%20Swarm/src/practiceswarm/Instruction.java
+END
+Ant.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/Ant.java
+END
+Swarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/Swarm.java
+END
+EmptySpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/anthill/!svn/ver/14/trunk/Practice%20Swarm/src/practiceswarm/EmptySpace.java
+END
+Obstacle.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/anthill/!svn/ver/26/trunk/Practice%20Swarm/src/practiceswarm/Obstacle.java
+END
+General.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/anthill/!svn/ver/15/trunk/Practice%20Swarm/src/practiceswarm/General.java
+END

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : stateInit.xml
+    Created on : July 29, 2010, 7:27 PM
+    Author     : Sean
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+<map>
+	<width>16</width>
+	<height>16</height>
+</map>
+<!--h-->
+<obstacle>
+        <positionx>0</positionx>
+        <positiony>0</positiony>
+</obstacle>
+<obstacle>
+        <positionx>0</positionx>
+        <positiony>1</positiony>
+</obstacle>
+<obstacle>
+        <positionx>0</positionx>
+        <positiony>2</positiony>
+</obstacle>
+<obstacle>
+        <positionx>0</positionx>
+        <positiony>3</positiony>
+</obstacle>
+<obstacle>
+        <positionx>1</positionx>
+        <positiony>1</positiony>
+</obstacle>
+<obstacle>
+        <positionx>2</positionx>
+        <positiony>0</positiony>
+</obstacle>
+<obstacle>
+        <positionx>2</positionx>
+        <positiony>1</positiony>
+</obstacle>
+<obstacle>
+        <positionx>2</positionx>
+        <positiony>2</positiony>
+</obstacle>
+<obstacle>
+        <positionx>2</positionx>
+        <positiony>3</positiony>
+</obstacle>
+
+<!--a-->
+<obstacle>
+        <positionx>4</positionx>
+        <positiony>1</positiony>
+</obstacle>
+<obstacle>
+        <positionx>4</positionx>
+        <positiony>2</positiony>
+</obstacle>
+<obstacle>
+        <positionx>4</positionx>
+        <positiony>3</positiony>
+</obstacle>
+<obstacle>
+        <positionx>5</positionx>
+        <positiony>0</positiony>
+</obstacle>
+<obstacle>
+        <positionx>5</positionx>
+        <positiony>2</positiony>
+</obstacle>
+<obstacle>
+        <positionx>6</positionx>
+        <positiony>1</positiony>
+</obstacle>
+<obstacle>
+        <positionx>6</positionx>
+        <positiony>2</positiony>
+</obstacle>
+<obstacle>
+        <positionx>6</positionx>
+        <positiony>3</positiony>
+</obstacle>
+
+<!--i-->
+<obstacle>
+        <positionx>8</positionx>
+        <positiony>0</positiony>
+</obstacle>
+<obstacle>
+        <positionx>8</positionx>
+        <positiony>1</positiony>
+</obstacle>
+<obstacle>
+        <positionx>8</positionx>
+        <positiony>2</positiony>
+</obstacle>
+<obstacle>
+        <positionx>8</positionx>
+        <positiony>3</positiony>
+</obstacle>
+
+<!--e-->
+<obstacle>
+        <positionx>1</positionx>
+        <positiony>5</positiony>
+</obstacle>
+<obstacle>
+        <positionx>1</positionx>
+        <positiony>6</positiony>
+</obstacle>
+<obstacle>
+        <positionx>1</positionx>
+        <positiony>7</positiony>
+</obstacle>
+<obstacle>
+        <positionx>1</positionx>
+        <positiony>8</positiony>
+</obstacle>
+<obstacle>
+        <positionx>2</positionx>
+        <positiony>5</positiony>
+</obstacle>
+<obstacle>
+        <positionx>2</positionx>
+        <positiony>7</positiony>
+</obstacle>
+<obstacle>
+        <positionx>2</positionx>
+        <positiony>8</positiony>
+</obstacle>
+<obstacle>
+        <positionx>3</positionx>
+        <positiony>5</positiony>
+</obstacle>
+<obstacle>
+        <positionx>3</positionx>
+        <positiony>6</positiony>
+</obstacle>
+<obstacle>
+        <positionx>3</positionx>
+        <positiony>8</positiony>
+</obstacle>
+
+<!--r-->
+<obstacle>
+        <positionx>5</positionx>
+        <positiony>5</positiony>
+</obstacle>
+<obstacle>
+        <positionx>5</positionx>
+        <positiony>6</positiony>
+</obstacle>
+<obstacle>
+        <positionx>5</positionx>
+        <positiony>7</positiony>
+</obstacle>
+<obstacle>
+        <positionx>5</positionx>
+        <positiony>8</positiony>
+</obstacle>
+<obstacle>
+        <positionx>6</positionx>
+        <positiony>5</positiony>
+</obstacle>
+<obstacle>
+        <positionx>6</positionx>
+        <positiony>7</positiony>
+</obstacle>
+<obstacle>
+        <positionx>7</positionx>
+        <positiony>6</positiony>
+</obstacle>
+<obstacle>
+        <positionx>7</positionx>
+        <positiony>8</positiony>
+</obstacle>
+
+<!--i-->
+<obstacle>
+        <positionx>9</positionx>
+        <positiony>5</positiony>
+</obstacle>
+<obstacle>
+        <positionx>9</positionx>
+        <positiony>6</positiony>
+</obstacle>
+<obstacle>
+        <positionx>9</positionx>
+        <positiony>7</positiony>
+</obstacle>
+<obstacle>
+        <positionx>9</positionx>
+        <positiony>8</positiony>
+</obstacle>
+
+<!--n-->
+<obstacle>
+        <positionx>11</positionx>
+        <positiony>5</positiony>
+</obstacle>
+<obstacle>
+        <positionx>11</positionx>
+        <positiony>6</positiony>
+</obstacle>
+<obstacle>
+        <positionx>11</positionx>
+        <positiony>7</positiony>
+</obstacle>
+<obstacle>
+        <positionx>11</positionx>
+        <positiony>8</positiony>
+</obstacle>
+<obstacle>
+        <positionx>12</positionx>
+        <positiony>6</positiony>
+</obstacle>
+<obstacle>
+        <positionx>13</positionx>
+        <positiony>7</positiony>
+</obstacle>
+<obstacle>
+        <positionx>14</positionx>
+        <positiony>5</positiony>
+</obstacle>
+<obstacle>
+        <positionx>14</positionx>
+        <positiony>6</positiony>
+</obstacle>
+<obstacle>
+        <positionx>14</positionx>
+        <positiony>7</positiony>
+</obstacle>
+<obstacle>
+        <positionx>14</positionx>
+        <positiony>8</positiony>
+</obstacle>
+
+<!--heart-->
+<obstacle>
+        <positionx>4</positionx>
+        <positiony>11</positiony>
+</obstacle>
+<obstacle>
+        <positionx>4</positionx>
+        <positiony>12</positiony>
+</obstacle>
+<obstacle>
+        <positionx>5</positionx>
+        <positiony>10</positiony>
+</obstacle>
+<obstacle>
+        <positionx>5</positionx>
+        <positiony>13</positiony>
+</obstacle>
+<obstacle>
+        <positionx>6</positionx>
+        <positiony>10</positiony>
+</obstacle>
+<obstacle>
+        <positionx>6</positionx>
+        <positiony>14</positiony>
+</obstacle>
+<obstacle>
+        <positionx>7</positionx>
+        <positiony>11</positiony>
+</obstacle>
+<obstacle>
+        <positionx>7</positionx>
+        <positiony>15</positiony>
+</obstacle>
+<obstacle>
+        <positionx>8</positionx>
+        <positiony>10</positiony>
+</obstacle>
+<obstacle>
+        <positionx>8</positionx>
+        <positiony>14</positiony>
+</obstacle>
+<obstacle>
+        <positionx>9</positionx>
+        <positiony>10</positiony>
+</obstacle>
+<obstacle>
+        <positionx>9</positionx>
+        <positiony>13</positiony>
+</obstacle>
+<obstacle>
+        <positionx>10</positionx>
+        <positiony>11</positiony>
+</obstacle>
+<obstacle>
+        <positionx>10</positionx>
+        <positiony>12</positiony>
+</obstacle>
+
+<!--!-->
+<obstacle>
+        <positionx>15</positionx>
+        <positiony>10</positiony>
+</obstacle>
+<obstacle>
+        <positionx>15</positionx>
+        <positiony>11</positiony>
+</obstacle>
+<obstacle>
+        <positionx>15</positionx>
+        <positiony>12</positiony>
+</obstacle>
+<obstacle>
+        <positionx>15</positionx>
+        <positiony>13</positiony>
+</obstacle>
+<obstacle>
+        <positionx>15</positionx>
+        <positiony>15</positiony>
+</obstacle>
+
+
+
+<swarm>
+	<color>red</color>
+	<behavior>Behavior</behavior>
+	<ant>
+		<positionx>0</positionx>
+		<positiony>4</positiony>
+                <direction>1</direction>
+	</ant>
+</swarm>
+</root>
